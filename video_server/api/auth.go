@@ -1,8 +1,8 @@
 package main
 
 import (
-	"golang-streaming/video_server/api/defs"
-	"golang-streaming/video_server/api/session"
+	"go_video/video_server/api/defs"
+	"go_video/video_server/api/session"
 	"net/http"
 )
 

@@ -1,9 +1,9 @@
 package session
 
 import (
-	"golang-streaming/video_server/api/dbops"
-	"golang-streaming/video_server/api/defs"
-	"golang-streaming/video_server/api/utils"
+	"go_video/video_server/api/dbops"
+	"go_video/video_server/api/defs"
+	"go_video/video_server/api/utils"
 	"sync"
 	"time"
 )

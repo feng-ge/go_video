@@ -1,8 +1,8 @@
 package dbops
 
 import (
-	"golang-streaming/video_server/api/defs"
-	"golang-streaming/video_server/api/utils"
+	"go_video/video_server/api/defs"
+	"go_video/video_server/api/utils"
 	"database/sql"
 	_ "github.com/go-sql-driver/mysql"
 	"log"

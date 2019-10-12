@@ -2,7 +2,7 @@ package taskrunner
 
 import (
 	"errors"
-	"golang-streaming/video_server/scheduler/dbops"
+	"go_video/video_server/scheduler/dbops"
 	"log"
 	"os"
 	"sync"

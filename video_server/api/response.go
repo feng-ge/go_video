@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"golang-streaming/video_server/api/defs"
+	"go_video/video_server/api/defs"
 	"io"
 	"net/http"
 )

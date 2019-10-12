@@ -1,7 +1,7 @@
 package dbops
 
 import (
-	"golang-streaming/video_server/api/defs"
+	"go_video/video_server/api/defs"
 	"database/sql"
 	"log"
 	"strconv"

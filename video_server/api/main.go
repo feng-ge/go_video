@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/julienschmidt/httprouter"
-	"golang-streaming/video_server/api/session"
+	"go_video/video_server/api/session"
 	"net/http"
 )
 
